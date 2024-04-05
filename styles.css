@@ -1,0 +1,25 @@
+/* Tamaño y centrado de imágenes */
+.card img{
+    height: 330px;
+    width: 250px;
+    object-fit: contain;
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#textnav:hover{
+    color: rgb(150, 189, 189);
+}
+
+#homebar:hover {
+    color: rgb(145, 154, 204);
+}
+
+#link-bar:hover {
+    color: rgb(145, 154, 204);
+}
+
+#dropdown-bar:hover {
+    color: rgb(145, 154, 204);
+}
